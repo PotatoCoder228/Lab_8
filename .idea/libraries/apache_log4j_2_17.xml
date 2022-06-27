@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apache-log4j-2.17">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/openjdk-11+28_windows-x64_bin.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
